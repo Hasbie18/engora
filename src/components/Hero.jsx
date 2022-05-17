@@ -23,7 +23,7 @@ const SuperHero = () => {
                     loop
                     />
                 </div>
-                <button className='bg-[#00df9a] w-[280px] rounded-md my-2 mx-auto py-2 text-white'>ENGORA SEARCH ALPHA</button>
+                <button className='bg-[#b8b9fa] w-[280px] rounded-md my-2 mx-auto py-2 text-white hover:bg-[#595bc9]'>ENGORA SEARCH ALPHA</button>
             </div>
             <div className='columns-2'>
 
