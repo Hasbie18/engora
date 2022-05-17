@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/engora/static/css/main.3f81d433.css",
+    "main.js": "/engora/static/js/main.97940dfa.js",
+    "static/media/graph2.gif": "/engora/static/media/graph2.e67043cc208ea99940e3.gif",
+    "static/media/g3.gif": "/engora/static/media/g3.e4b74174f956b5ff451a.gif",
+    "static/media/g4.gif": "/engora/static/media/g4.35de7c1cb3d324e0c573.gif",
+    "static/media/g2.gif": "/engora/static/media/g2.b07f30b41b763f9ca4e1.gif",
+    "static/media/g1.gif": "/engora/static/media/g1.237f0a90b5f95761169d.gif",
+    "static/media/test2.jpg": "/engora/static/media/test2.56c96753bb77f6030b6b.jpg",
+    "index.html": "/engora/index.html",
+    "main.3f81d433.css.map": "/engora/static/css/main.3f81d433.css.map",
+    "main.97940dfa.js.map": "/engora/static/js/main.97940dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f81d433.css",
+    "static/js/main.97940dfa.js"
+  ]
+}
